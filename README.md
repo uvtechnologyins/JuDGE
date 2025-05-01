@@ -1,6 +1,6 @@
 # JuDGE: Benchmarking Judgment Document Generation for Chinese Legal System
 
-📢 News: this work has been accepted at the SIGIR 2025!
+📢 **News: this work has been accepted at the SIGIR 2025!**
 
 
 ## Overview
